@@ -5,8 +5,10 @@
 % script will drive robot to move from one point to another
 %
 % Notes::
-% - Based on my CSDN blog. If you are interested in robotics, then 
-%   welcome to my blog https://blog.csdn.net/hitgavin.
+% - Based on my CSDN blog 
+%   https://blog.csdn.net/hitgavin/article/details/104672482
+%   If you are interested in robotics, welcome to my blog
+%   https://blog.csdn.net/hitgavin.
 mdl_scara400;
 L(3).qlim = [0.05 0.3];
 q1 = [0 0 0.05 0];

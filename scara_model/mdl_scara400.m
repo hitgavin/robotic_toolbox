@@ -6,8 +6,10 @@
 % characteristics of a scara 400 machine
 %
 % Notes::
-% - Based on my CSDN blog. If you are interested in robotics, then 
-%   welcome to my blog https://blog.csdn.net/hitgavin.
+% - Based on my CSDN blog 
+%   https://blog.csdn.net/hitgavin/article/details/104672482
+%   If you are interested in robotics, welcome to my blog
+%   https://blog.csdn.net/hitgavin.
 
 
 % Copyright (C) 2020-2021, by gavin
